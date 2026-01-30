@@ -1,0 +1,7 @@
+{
+  "name": "Peach Talks",
+  "description": "An anonymous student community for ACE College to share resources, ideas, chats, and confessions without revealing true identities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
