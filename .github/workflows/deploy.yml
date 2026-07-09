@@ -23,7 +23,7 @@ jobs:
       - name: Build
         working-directory: ./peach_talks
         run: npm run build
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v4
         with:
           path: ./peach_talks/dist
 
