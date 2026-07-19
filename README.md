@@ -1,4 +1,4 @@
-live link - https://mansi0905.github.io/secret_app/
+live link - https://mansi0905.github.io/Peach-talkss/
 
 
 frontend- completed and looks good
